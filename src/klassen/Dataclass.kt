@@ -9,6 +9,4 @@ fun main(args: Array<String>) {
 
     println(pers1.hashCode())
     println(pers1.toString())
-    
-
 }
